@@ -32,7 +32,10 @@ Hey there! 👋 Welcome to my repo! 🎉
 
 ## Special features
 ![image](https://github.com/eshwanthkartitr/Cycle-management-system/assets/111058542/54333099-1b86-4868-8932-5724de512b91)
+Extract data from qr codes
 ![image](https://github.com/eshwanthkartitr/Cycle-management-system/assets/111058542/1dcbe056-4433-4427-a107-46044af2215a)
+Using python pywhat kit to send msg report via number
+![image](https://github.com/eshwanthkartitr/Cycle-management-system/assets/111058542/f2a00616-83d5-41d0-bc00-3c5bc7ed9ba4)
 
 ## How to Contribute?
 Although there are a lot of 🪲 
