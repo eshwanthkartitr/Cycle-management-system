@@ -27,7 +27,9 @@ Hey there! 👋 Welcome to my repo! 🎉
 - **Remove_Add_cycle.java**: Cycle in, cycle out. Keeping the cycle of life in balance. 🔄
   ![image](https://github.com/eshwanthkartitr/Cycle-management-system/assets/111058542/79014743-49a3-4a7a-b7e4-25ab16f24e77)
 - **User_Report.java**: Reporting for duty! 📊 Analyzing user data like a pro.
+  Send the particular user info thru whatsapp
 - **User_managament_module.java**: Managing users with finesse and grace. 👤
+- Used for he utilization of the questionare model
 - **robot_automatic.java**: Beep boop! Our robotic assistant is here to help. 🤖
 
 ## Special features
