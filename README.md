@@ -1,5 +1,5 @@
 # Cycle-management-system
-# Welcome to the Awesome Repository!
+
 
 Hey there! 👋 Welcome to my repo! 🎉
 
